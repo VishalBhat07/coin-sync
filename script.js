@@ -39,9 +39,9 @@ $(document).ready(function () {
 
             // Change color based on price change
             if (price > prevPrice) {
-              $("#" + data.id).css("color", "green");
+              $("#" + data.id).css("color", "#0ecb81");
             } else if (price < prevPrice) {
-              $("#" + data.id).css("color", "red");
+              $("#" + data.id).css("color", "#e9445a");
             }
           }, 500); // Update price after 10 seconds
         })
