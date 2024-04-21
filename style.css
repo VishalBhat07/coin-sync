@@ -57,7 +57,7 @@ nav .btn:hover {
 }
 
 .content {
-  margin-top: 12%;
+  margin-top: 5.5%;
 }
 
 .content h1 {
@@ -101,6 +101,7 @@ nav .btn:hover {
   border: 1px solid #fff;
   padding: 20px 30px;
   border-radius: 8px;
+  width: 220px;
 }
 
 .coin img {

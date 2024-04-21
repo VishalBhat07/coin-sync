@@ -6,6 +6,8 @@ $(document).ready(function () {
       { symbol: "BTCUSDT", id: "bitcoin-price" },
       { symbol: "ETHUSDT", id: "ethereum-price" },
       { symbol: "DOGEUSDT", id: "dogecoin-price" },
+      { symbol: "BNBUSDT", id: "binance-coin-price" },
+      { symbol: "SOLUSDT", id: "solana-price" },
     ];
 
     // Iterate through each cryptocurrency data
