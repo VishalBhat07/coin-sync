@@ -45,8 +45,5 @@ If you encounter any bugs or have suggestions for improvements, please open an i
 
 ## Credits
 
-This project was created by [Your Name].
+This project was created by Vishal Bhat.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
